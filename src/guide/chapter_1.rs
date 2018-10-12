@@ -29,15 +29,15 @@ Here's [another youtube demo](https://www.youtube.com/watch?v=_ZXLCVibI8c) of co
 
 **A multimedia timeline widget.**
 
-<img src="http://imgur.com/34NEw90.png" alt="timeline" style="width:700px;">
+<img src="https://imgur.com/34NEw90.png" alt="timeline" style="width:700px;">
 
 **The [all_piston_window.rs example](https://github.com/PistonDevelopers/conrod/blob/master/examples/all_piston_window.rs).**
 
-<img src="http://i.imgur.com/xKXISdc.png" alt="all_widgets.rs" style="width:700px;">
+<img src="https://i.imgur.com/xKXISdc.png" alt="all_widgets.rs" style="width:700px;">
 
 **The [canvas.rs example](https://github.com/PistonDevelopers/conrod/blob/master/examples/canvas.rs).**
 
-<img src="http://i.imgur.com/YtjjEJX.png" alt="canvas.rs" style="width:700px;">
+<img src="https://i.imgur.com/YtjjEJX.png" alt="canvas.rs" style="width:700px;">
 
 
 ## Feature Overview
@@ -292,11 +292,11 @@ of the guide.
 [7]:  https://github.com/PistonDevelopers/glutin_window             "glutin_window crate"
 [8]:  https://github.com/PistonDevelopers/sdl2_window               "sdl2_window crate"
 [9]:  https://github.com/PistonDevelopers/glfw_window               "glfw_window crate"
-[10]: http://docs.piston.rs/piston/window/trait.Window.html         "piston Window trait"
+[10]: https://docs.piston.rs/piston/window/trait.Window.html         "piston Window trait"
 [11]: https://github.com/PistonDevelopers/gfx_graphics              "gfx_graphics crate"
 [12]: https://github.com/PistonDevelopers/glium_graphics            "glium_graphics crate"
 [13]: https://github.com/PistonDevelopers/opengl_graphics           "opengl_graphics crate"
-[14]: http://docs.piston.rs/graphics/graphics/trait.Graphics.html   "piston Graphics trait"
+[14]: https://docs.piston.rs/graphics/graphics/trait.Graphics.html   "piston Graphics trait"
 
 [Widget]:               ../../widget/trait.Widget.html      "Widget trait"
 [Theme]:                ../../theme/struct.Theme.html       "Theme struct"
